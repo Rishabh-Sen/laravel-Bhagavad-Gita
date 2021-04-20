@@ -1,0 +1,12 @@
+.login-reg {
+  float: left;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 10px;
+}
+.login-reg:hover{
+  background-color: rgb(8, 8, 0);
+}
+.active{
+  font-weight: 900;
+}
